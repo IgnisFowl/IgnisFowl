@@ -12,7 +12,6 @@
 
 - 🎓 **Formação Prévia**: Design Gráfico | Fotografia | Gestão em Marketing
 - 💻 **Cursando Atualmente**: Ciências da Computação (Estácio de Sá) | Engenharia de Software (42 São Paulo)
-- 📊 **Habilidades**: C, Java, Python, PostgreSQL 
 - 🌍 **Idiomas**: Português (nativo), Inglês (fluente), Espanhol (básico), Japonês (intermediário)
 
 ## 🛠️ Tecnologias e Ferramentas
