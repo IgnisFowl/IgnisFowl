@@ -19,7 +19,9 @@
 <p>
   <img src="https://img.shields.io/badge/C-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/CSS-pink?style=for-the-badge&logo=css">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
